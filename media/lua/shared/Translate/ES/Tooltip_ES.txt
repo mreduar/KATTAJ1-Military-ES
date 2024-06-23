@@ -1,0 +1,3 @@
+Tooltip_ES = {
+	Tooltip_KATTAJ1_TacticalFlashlight = "Linterna táctica fabricada por KATTAJ1, proporciona iluminación en completa oscuridad de forma durable y fiable."
+}

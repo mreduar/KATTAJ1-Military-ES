@@ -1,0 +1,39 @@
+ContextMenu_ES = {
+    ContextMenu_AttachHolsterToHipLeft = "Colgar en la pierna izquierda",
+    ContextMenu_AttachHolsterToHipArmorLeft = "Colgar en la armadura de la pierna izquierda",
+    ContextMenu_AttachHolsterToBeltLeft = "Colgar en el lado izquierdo del cinturón",
+    ContextMenu_AttachHolsterToHipRight = "Colgar en la pierna derecha",
+    ContextMenu_AttachHolsterToHipArmorRight = "Colgar en la armadura de la pierna derecha",
+    ContextMenu_AttachHolsterToBeltRight = "Colgar en el lado derecho del cinturón",
+
+    ContextMenu_AttachPouchToHipLeft = "Colgar en el lado izquierdo",
+    ContextMenu_AttachPouchToHipRight = "Colgar en el lado derecho",
+    ContextMenu_AttachPouchToHipLeftOnArmor = "Colgar en la armadura de la pierna izquierda",
+    ContextMenu_AttachPouchToHipRightOnArmor = "Colgar en la armadura de la pierna derecha",
+
+    ContextMenu_AttachSheathToHipLeft = "Colgar en la pierna izquierda",
+    ContextMenu_AttachSheathToHipArmorLeft = "Colgar en la armadura de la pierna izquierda",
+    ContextMenu_AttachSheathToBeltLeft = "Colgar en el lado izquierdo del cinturón",
+    ContextMenu_AttachSheathToHipRight = "Colgar en la pierna derecha",
+    ContextMenu_AttachSheathToHipArmorRight = "Colgar en la armadura de la pierna derecha",
+    ContextMenu_AttachSheathToBeltRight = "Colgar en el lado derecho del cinturón",
+    ContextMenu_AttachSheathToBack = "Colgar en la espalda",
+
+    ContextMenu_NoBelts = "Sin cinturón",
+    ContextMenu_WithBelts = "Con cinturón",
+
+    ContextMenu_ShirtMan = "Camisa de hombre",
+    ContextMenu_ShirtFemale = "Camisa de mujer",
+
+    ContextMenu_PutOn = "Ponerse",
+    ContextMenu_Tight = "Apretar",
+
+    ContextMenu_JacketOpen = "Abrir",
+    ContextMenu_JacketOpenRolledUpSleeves = "Abrir y arremangar",
+    ContextMenu_JacketRolledUpSleeves = "Arremangar",
+    ContextMenu_DownHoodieOpen = "Abrir y bajar capucha",
+    ContextMenu_UpHoodieOpen = "Abrir y subir capucha",
+
+    ContextMenu_RollUpPants = "Arremangar pantalones",
+    ContextMenu_TuckPants = "Meter en los zapatos",
+}

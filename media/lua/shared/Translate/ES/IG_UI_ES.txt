@@ -1,0 +1,21 @@
+IG_UI_ES = {
+  "IGUI_HotbarAttachment_KATTAJ1HelmetWithMount": "Casco (linterna táctica)",
+  "IGUI_HotbarAttachment_KATTAJ1hipLeftHolster": "Funda izquierda de cadera",
+  "IGUI_HotbarAttachment_KATTAJ1hipArmorLeftHolster": "Funda de armadura izquierda de cadera",
+  "IGUI_HotbarAttachment_KATTAJ1beltLeftHolster": "Funda izquierda de cinturón",
+  "IGUI_HotbarAttachment_KATTAJ1hipRightHolster": "Funda derecha de cadera",
+  "IGUI_HotbarAttachment_KATTAJ1hipArmorRightHolster": "Funda de armadura derecha de cadera",
+  "IGUI_HotbarAttachment_KATTAJ1beltRightHolster": "Funda derecha de cinturón",
+  "IGUI_HotbarAttachment_KATTAJ1hipLeftSheath": "Vaina izquierda de cadera",
+  "IGUI_HotbarAttachment_KATTAJ1hipArmorLeftSheath": "Vaina de armadura izquierda de cadera",
+  "IGUI_HotbarAttachment_KATTAJ1beltLeftSheath": "Vaina izquierda de cinturón",
+  "IGUI_HotbarAttachment_KATTAJ1hipRightSheath": "Vaina derecha de cadera",
+  "IGUI_HotbarAttachment_KATTAJ1hipArmorRightSheath": "Vaina de armadura derecha de cadera",
+  "IGUI_HotbarAttachment_KATTAJ1beltRightSheath": "Vaina derecha de cinturón",
+  "IGUI_HotbarAttachment_KATTAJ1BackSheath": "Vaina de espalda",
+  "IGUI_ItemCat_KATTAJ1_BulletproofVest": "Chaleco antibalas",
+  "IGUI_ItemCat_KATTAJ1_ArmsProtectionUpper": "Protección de brazos superior",
+  "IGUI_ItemCat_KATTAJ1_ArmsProtectionLower": "Protección de brazos inferior",
+  "IGUI_ItemCat_KATTAJ1_LegsProtectionUpper": "Protección de piernas superior",
+  "IGUI_ItemCat_KATTAJ1_LegsProtectionLower": "Protección de piernas inferior"
+}
